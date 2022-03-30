@@ -17,7 +17,6 @@
 ## Installation Instruction
 
 - Clone the repository with `git clone`
-- 
 - Run `composer install`
 - Run `php artisan key:generate`
 - Run `php artisan migrate --seed` (It has some seeded data for your testing)
