@@ -17,7 +17,7 @@
 ## Installation Instruction
 
 - Clone the repository with `git clone`
-- Copy .env.example file to .env and edit 
+- Copy .env.example file to .env and
 - Run `composer install`
 - Run `php artisan key:generate`
 - Run `php artisan migrate --seed` (It has some seeded data for your testing)
