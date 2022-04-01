@@ -1,5 +1,9 @@
 ## Features
 
+- Employee Management
+- Supplier Management
+- Product Management
+- Expense Management
 
 ## Packages Used
 
