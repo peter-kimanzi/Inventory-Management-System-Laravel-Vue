@@ -7,8 +7,7 @@
 
 ## Packages Used
 
-- Vue Router
-- Raung Admin Template
+
 - Jwt Auth
 - Sweetalert2 intigration with vue
 - Noty  intigration with vue
